@@ -3,7 +3,7 @@
 |------|---------|--------|
 | Flyingdarts.Backend.Shared | 1.0.0.1 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Shared | 1.0.2.1 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml) |
-| Flyingdarts.Persistence | 1.0.2.7 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml) |
+| Flyingdarts.Persistence | 1.0.2.8 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Utility.Templates | 1.0.7 | [![Build and publish Flyingdarts.Utility.Templates](https://github.com/flyingdarts/Flyingdarts.Utility.Templates/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Utility.Templates/actions/workflows/build-and-publish-package.yml) |
 
 ## Lambda's
