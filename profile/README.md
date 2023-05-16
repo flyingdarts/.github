@@ -1,7 +1,7 @@
 ## Packages
 | Name | Version | Status |
 |------|---------|--------|
-| Flyingdarts.Backend.Shared | 1.0.0.3 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml) |
+| Flyingdarts.Backend.Shared | 1.0.0.4 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Backend.Shared/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Infrastructure.Constructs | 1.0.1.3 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Infrastructure.Constructs/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Infrastructure.Constructs/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Persistence | 1.0.2.12 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Persistence/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Shared | 1.0.2.3 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml) |
