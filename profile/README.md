@@ -7,7 +7,7 @@
 | Flyingdarts.Shared | 1.0.2.7 | [![Build and publish Package](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Shared/actions/workflows/build-and-publish-package.yml) |
 | Flyingdarts.Utility.Templates | 1.2.1.3 | [![Build and publish Flyingdarts.Utility.Templates](https://github.com/flyingdarts/Flyingdarts.Utility.Templates/actions/workflows/build-and-publish-package.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Utility.Templates/actions/workflows/build-and-publish-package.yml) |
 
-## Lambda's
+## Lambda's 
 | Name | Status |
 | --- | --- |
 | Flyingdarts.Backend.Games.X01.Join | [![Deploy Flyingdarts.Backend.Games.X01.Join](https://github.com/flyingdarts/Flyingdarts.Backend.Games.X01.Join/actions/workflows/build-and-publish-lambda.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Backend.Games.X01.Join/actions/workflows/build-and-publish-lambda.yml) |
