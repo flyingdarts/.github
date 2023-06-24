@@ -1,3 +1,11 @@
+## Apps
+| Name | Version | Status |
+|------|---------|--------|
+| Flyingdarts.Angular | 1.1.3 | ? |
+| Flyingdarts.Flutter | 1.0.0 | [![build and deploy widgetbook](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml) |
+|-------------------------|
+| https://widgetbook.flyingdarts.net | [![build and deploy widgetbook](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml) | 
+
 ## Packages
 | Name | Version | Status |
 |------|---------|--------|
