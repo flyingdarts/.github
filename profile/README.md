@@ -2,7 +2,7 @@
 | Name | Version | Status |
 |------|---------|--------|
 | Flyingdarts.Angular | 1.1.3 | ? |
-| Flyingdarts.Flutter | 1.0.0 | [![Codemagic build status](https://api.codemagic.io/apps/649bdab32e21412d3b3a5a8f/649bdab32e21412d3b3a5a8e/status_badge.svg)](https://codemagic.io/apps/649bdab32e21412d3b3a5a8f/649bdab32e21412d3b3a5a8e/latest_build) |
+| Flyingdarts.Flutter | 1.2.3 | [![Codemagic build status](https://api.codemagic.io/apps/649bdab32e21412d3b3a5a8f/649bdab32e21412d3b3a5a8e/status_badge.svg)](https://codemagic.io/apps/649bdab32e21412d3b3a5a8f/649bdab32e21412d3b3a5a8e/latest_build) |
 | https://widgetbook.flyingdarts.net |  | [![build and deploy widgetbook](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml/badge.svg)](https://github.com/flyingdarts/Flyingdarts.Flutter/actions/workflows/widgetbook.yml) | 
 
 ## Packages
